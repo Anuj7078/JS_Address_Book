@@ -7,7 +7,6 @@ function editContactByName(name, updatedDetails) {
         console.log("Contact not found!");
     }
 }
-
 // Example Usage
 editContactByName("John", { city: "San Francisco", state: "CA" });
 console.log(addressBook);
