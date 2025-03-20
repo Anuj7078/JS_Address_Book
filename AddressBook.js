@@ -18,3 +18,4 @@ class Contact {
 // Example Usage
 let contact = new Contact("John", "Doe", "123 Main St", "New York", "NY", "10001", "1234567890", "john.doe@example.com");
 console.log(contact.toString());
+module.exports = Contact;
